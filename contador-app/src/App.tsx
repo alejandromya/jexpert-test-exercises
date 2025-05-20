@@ -86,7 +86,7 @@ const App: React.FC<AppProps> = ({
           +
         </button>
       </div>
-
+      {/* <div>{targetNumber}</div> */}
       <div className="buttons-container">
         <button
           className="submit-button"
